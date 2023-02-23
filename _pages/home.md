@@ -6,10 +6,5 @@ sitemap: false
 permalink: /
 ---
 
-### About the Lab
-
-
-
-Cras adipiscing enim eu turpis. Imperdiet massa tincidunt nunc pulvinar sapien et ligula ullamcorper. Sed lectus vestibulum mattis ullamcorper velit. Ut faucibus pulvinar elementum integer. Mattis nunc sed blandit libero volutpat sed cras ornare. Diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Risus nullam eget felis eget nunc lobortis mattis. In tellus integer feugiat scelerisque varius morbi enim. Eget nunc lobortis mattis aliquam faucibus 
-
-purus in. Ut pharetra sit amet aliquam id diam maecenas ultricies mi. Augue neque gravida in fermentum et sollicitudin ac orci. Id donec ultrices tincidunt arcu non. Pharetra et ultrices neque ornare aenean euismod. Purus faucibus ornare suspendisse sed. Nibh tellus molestie nunc non blandit massa enim. Non diam phasellus vestibulum lorem sed risus. Vel eros donec ac odio tempor orci dapibus ultrices in. Libero id faucibus nisl tincidunt.
+### (BBB) Association's website
+https://static.projects.iq.harvard.edu/files/styles/os_files_medium/public/bbb-scba/files/bbb_logo_yl_xl_v1.jpg?m=1539920114&itok=-QOrRrOu![image](https://user-images.githubusercontent.com/123331655/220804662-b693e931-26e8-4b6a-8cd0-1c292a60586a.png)
