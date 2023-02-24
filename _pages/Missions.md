@@ -1,5 +1,5 @@
 ---
-title: "Vacancies"
+title: "Missions"
 layout: default
 excerpt: "Openings"
 sitemap: false
