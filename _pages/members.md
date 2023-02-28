@@ -1,11 +1,11 @@
 ---
 title: "Members"
 layout: default
-excerpt: "RT2 Lab -- Research"
+excerpt: "RT2 Lab -- Members"
 sitemap: false
 permalink: /members/
 ---
 
-# Research
+# Members
 hihi
 
