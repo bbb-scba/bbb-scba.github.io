@@ -1,6 +1,6 @@
 ---
 title: "History"
-layout: defalt
+layout: default
 excerpt: "RT2 Lab at Institut Curie"
 sitemap: false
 permalink: /history
