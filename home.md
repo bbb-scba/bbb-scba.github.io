@@ -7,7 +7,7 @@ permalink: /
 ---
 
 ### About the Lab
-
+print("hi")
 <div style="display: flex; flex-direction: row;">
   <div style="flex-basis: 25%; background-color: #f2f2f2; padding: 10px;">
     <!-- Left section content goes here -->
