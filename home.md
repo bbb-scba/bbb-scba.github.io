@@ -8,4 +8,4 @@ permalink: /
 
 ### About the Lab
 
-This is the Home page ... information to be added.
+This is the Home page ... information to be added 
