@@ -17,6 +17,7 @@ permalink: /
   </div>
   
   <div style="flex-basis: 75%; padding: 10px;">
+    
     <!-- Right section content goes here -->
     
 <img src="images/logo/bbb_logo_yl_xl_v1.jpg" alt="logo example 2" style="width:50%;height:50%">
