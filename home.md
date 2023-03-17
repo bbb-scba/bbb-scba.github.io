@@ -21,4 +21,3 @@ permalink: /
   </div>
   
 </div>
-
