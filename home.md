@@ -14,6 +14,9 @@ permalink: /
     
     <!-- Left section goes here -->
     
+<img src="images/logo/bbb_logo_yl_xl_v1.jpg" alt="logo example 2" style="width:50%;height:50%">
+<img src="images/logo/screen_shot_2018-02-19_at_10.50.36_am_0.png" alt="logo example 3" style="width:50%;height:50%" >
+ 
   </div>
   
   <div style="flex-basis: 75%; padding: 10px;">
