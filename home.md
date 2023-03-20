@@ -58,7 +58,6 @@ permalink: /
 
 </div>
 
-    
   </div>
   
 </div>
