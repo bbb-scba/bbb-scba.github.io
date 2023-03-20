@@ -39,6 +39,7 @@ permalink: /
     margin: auto; /* Center the image within the cell */
   }
 </style>
+      
 <table>
   <tr>
     <td><img src="images/slider/flyer_v9.jpg"></td>
@@ -52,8 +53,11 @@ permalink: /
     <td><img src="images/slider/screen_shot_2019-11-24_at_10.01.38_am.png"></td>
     <td><img src="images/slider/screen_shot_2019-09-13_at_9.46.14_pm.png"></td>
 
-      
 </table>
+
+  </div>
+
+</div>
 
 
     
