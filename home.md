@@ -27,7 +27,7 @@ permalink: /
 
 <style>
   .image-cell {
-    width: 25%; /* Set the width of each cell to 50% of the table */
+    width: auto; /* Set the width of each cell to 50% of the table */
     height: auto; /* Set the height of each cell to auto to maintain aspect ratio */
   }
 
