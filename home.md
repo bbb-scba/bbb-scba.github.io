@@ -25,7 +25,19 @@ permalink: /
     
     <!-- Right section goes here -->
 
+<table>
+  <tr>
+    <td><img src="images/slider/flyer_v9.jpg"></td>
+    <td><img src="images/slider/screen_shot_2019-07-01_at_7.56.36_pm.png"></td>
+  </tr>
+  <tr>
+    <td><img src="images/slider/screen_shot_2019-07-01_at_7.57.12_pm.png"></td>
+    <td><img src="images/slider/screen_shot_2019-07-01_at_7.57.26_pm.png"></td>
+  </tr>
+</table>
 
+
+    
   </div>
   
 </div>
