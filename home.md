@@ -34,6 +34,7 @@ permalink: /
   <tr>
     <td><img src="images/slider/screen_shot_2019-07-01_at_7.57.12_pm.png"></td>
     <td><img src="images/slider/screen_shot_2019-07-01_at_7.57.26_pm.png"></td>
+    <td><img src="images/slider/screen_shot_2019-11-24_at_10.01.38_am.png"></td>
   </tr>
 </table>
 
