@@ -20,7 +20,6 @@ permalink: /
 
   </div>
   
- 
   <div style="flex-basis: 75%; padding: 10px;">
     
 <!-- Right section goes here -->
