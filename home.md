@@ -33,7 +33,9 @@ permalink: /
 
   .image-cell img {
     display: block; /* Set the display property of the image to block */
+    max-height:100%;
     max-width: 100%; /* Set the maximum width of the image to 100% of its container */
+    width: auto;
     height: auto; /* Set the height of the image to auto to maintain aspect ratio */
     margin: auto; /* Center the image within the cell */
   }
