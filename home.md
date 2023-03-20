@@ -24,40 +24,6 @@ permalink: /
     
     <!-- Right section goes here -->
 
-<style>
-  .image-cell {
-    width: auto; /* Set the width of each cell to 50% of the table */
-    height: auto; /* Set the height of each cell to auto to maintain aspect ratio */
-  }
-
-  .image-cell img {
-    display: block; /* Set the display property of the image to block */
-    max-height:100%;
-    max-width: 100%; /* Set the maximum width of the image to 100% of its container */
-    width: auto;
-    height: auto; /* Set the height of the image to auto to maintain aspect ratio */
-    margin: auto; /* Center the image within the cell */
-  }
-</style>
-      
-<table>
-  <tr>
-    <td><img src="images/slider/flyer_v9.jpg"></td>
-    <td><img src="images/slider/screen_shot_2019-07-01_at_7.56.36_pm.png"></td>
-  </tr>
-  <tr>
-    <td><img src="images/slider/screen_shot_2019-07-01_at_7.57.12_pm.png"></td>
-    <td><img src="images/slider/screen_shot_2019-07-01_at_7.57.26_pm.png"></td>
-  </tr>
-  </tr>
-    <td><img src="images/slider/screen_shot_2019-11-24_at_10.01.38_am.png"></td>
-    <td><img src="images/slider/screen_shot_2019-09-13_at_9.46.14_pm.png"></td>
-</table>
-
   </div>
 
-</div>
-
-  </div>
-  
 </div>
