@@ -9,7 +9,7 @@ permalink: /
 ### About the Lab
 
 <div style="display: flex; flex-direction: row;">
-    <div style="flex-basis: 35%; background-color: #f2f2f2; padding: 10px;">
+    <div style="flex-basis: 25%; background-color: #f2f2f2; padding: 10px;">
     
     <!-- Left section goes here -->
     
@@ -20,7 +20,7 @@ permalink: /
 
   </div>
   
-  <div style="flex-basis: 65%; padding: 10px;">
+  <div style="flex-basis: 75%; padding: 10px;">
     
     <!-- Right section goes here -->
 
