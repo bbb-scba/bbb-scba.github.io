@@ -25,6 +25,19 @@ permalink: /
     
     <!-- Right section goes here -->
 
+<style>
+  .image-cell {
+    width: auto; /* Set the width of each cell to 50% of the table */
+    height: auto; /* Set the height of each cell to auto to maintain aspect ratio */
+  }
+
+  .image-cell img {
+    display: block; /* Set the display property of the image to block */
+    max-width: 100%; /* Set the maximum width of the image to 100% of its container */
+    height: auto; /* Set the height of the image to auto to maintain aspect ratio */
+    margin: auto; /* Center the image within the cell */
+  }
+</style>
 <table>
   <tr>
     <td><img src="images/slider/flyer_v9.jpg"></td>
