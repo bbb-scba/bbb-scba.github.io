@@ -52,6 +52,7 @@ permalink: /
     <td><img src="images/slider/screen_shot_2019-11-24_at_10.01.38_am.png"></td>
     <td><img src="images/slider/screen_shot_2019-09-13_at_9.46.14_pm.png"></td>
 
+      
 </table>
 
 
