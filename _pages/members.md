@@ -6,6 +6,3 @@ sitemap: false
 permalink: /members/
 ---
 
-# Members
-hihi
-
