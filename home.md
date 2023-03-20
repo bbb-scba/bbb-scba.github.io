@@ -6,8 +6,6 @@ sitemap: false
 permalink: /
 ---
 
-### About the Lab
-
 <div style="display: flex; flex-direction: row;">
   <div class="left" style="flex-basis: 25%; background-color: #f2f2f2; padding: 10px;">
     
