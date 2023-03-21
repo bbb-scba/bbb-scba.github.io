@@ -6,7 +6,6 @@ sitemap: false
 permalink: /
 ---
 
-
 <div style="display: flex; flex-direction: row;">
   <div class="left" style="flex-basis: 50%; padding: 10px;">
     
@@ -17,24 +16,9 @@ permalink: /
 
   </div>
   
-  
-  
   <div style="flex-basis: 50%; padding: 10px;">
 
-<table>
-  <tr>
-    <td style="padding: 5px;"><img src="images/slider/flyer_v9.jpg"></td>
-    <td style="padding: 5px;"><img src="images/slider/screen_shot_2019-07-01_at_7.56.36_pm.png"></td>
-  </tr>
-  <tr>
-    <td style="padding: 5px;"><img src="images/slider/screen_shot_2019-07-01_at_7.57.12_pm.png"></td>
-    <td style="padding: 5px;"><img src="images/slider/screen_shot_2019-07-01_at_7.57.26_pm.png"></td>
-  </tr>
-  <tr>
-    <td style="padding: 5px;"><img src="images/slider/screen_shot_2019-11-24_at_10.01.38_am.png"></td>
-    <td style="padding: 5px;"><img src="images/slider/screen_shot_2019-09-13_at_9.46.14_pm.png"></td>
-  </tr>
-</table>
+<img src="images/logo/screen_shot_2018-02-19_at_10.50.36_am_0.png" alt="logo example 3" style="width:75%; height:75%" >
 
   </div>
 
