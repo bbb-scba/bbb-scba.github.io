@@ -6,6 +6,7 @@ sitemap: false
 permalink: /
 ---
 
+
 <div style="display: flex; flex-direction: row;">
   <div class="left" style="flex-basis: 50%; padding: 10px;">
     
