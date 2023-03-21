@@ -9,7 +9,7 @@ permalink: /
 <div style="display: flex; flex-direction: row;">
   
   
-  <div class="left" style="flex-basis: 35%; background-color: white; padding: 10px;">
+  <div class="left" style="flex-basis: 50%; background-color: white; padding: 10px;">
     
 <p align="center"> 
 <img src="images/logo/bbb_logo_yl_xl_v1.jpg" alt="logo example 2" style="width:75%;height:75%">
@@ -20,7 +20,7 @@ permalink: /
   
   
   
-  <div style="flex-basis: 65%; padding: 10px;">
+  <div style="flex-basis: 50%; padding: 10px;">
 
 <table>
   <tr>
