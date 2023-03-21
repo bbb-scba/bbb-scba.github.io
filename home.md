@@ -33,7 +33,6 @@ permalink: /
   </tr>
 </table>
 
-
   </div>
 
 </div>
