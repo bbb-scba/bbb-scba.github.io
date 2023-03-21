@@ -7,8 +7,6 @@ permalink: /
 ---
 
 <div style="display: flex; flex-direction: row;">
-  
-  
   <div class="left" style="flex-basis: 50%; background-color: white; padding: 10px;">
     
 <p align="center"> 
