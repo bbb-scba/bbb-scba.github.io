@@ -21,8 +21,10 @@ permalink: /
 <table  width="75%">
   <tr>
     <td style="padding: 5px;" >
-    <img src="images/slider/flyer_v9.jpg" style="width:50%; height:50%">
-    <img src="images/slider/flyer_v9.jpg" style="width:50%; height:50%">
+    <img src="images/slider/flyer_v9.jpg" style="width:50%; height:50%; padding: 5px;">
+    <img src="images/slider/flyer_v9.jpg" style="width:50%; height:50%; padding: 5px;">
+    <img src="images/slider/flyer_v9.jpg" style="width:50%; height:50%; padding: 5px;">
+    <img src="images/slider/flyer_v9.jpg" style="width:50%; height:50%; padding: 5px;">
     </td>
     <td style="padding: 5px;" ><img src="images/slider/screen_shot_2019-07-01_at_7.56.36_pm.png"></td>
   </tr>
