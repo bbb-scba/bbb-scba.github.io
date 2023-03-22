@@ -17,27 +17,12 @@ permalink: /
   </div>
   
   <div style="flex-basis: 75%; padding: 10px;">
-
-<table  width="75%">
-  <tr>
-    <td style="padding: 5px;" >
-    <img src="images/slider/flyer_v9.jpg" style="width:50%; height:50%; padding: 5px;">
-    <img src="images/slider/flyer_v9.jpg" style="width:50%; height:50%; padding: 5px;">
-    <img src="images/slider/flyer_v9.jpg" style="width:50%; height:50%; padding: 5px;">
-    <img src="images/slider/flyer_v9.jpg" style="width:50%; height:50%; padding: 5px;">
-    </td>
-    <td style="padding: 5px;" ><img src="images/slider/screen_shot_2019-07-01_at_7.56.36_pm.png"></td>
-  </tr>
-  <tr>
-    <td style="padding: 5px;" ><img src="images/slider/screen_shot_2019-07-01_at_7.57.12_pm.png"></td>
-    <td style="padding: 5px;" ><img src="images/slider/screen_shot_2019-07-01_at_7.57.26_pm.png"></td>
-  </tr>
-  <tr>
-    <td style="padding: 5px;" width="25%" height="25%"><img src="images/slider/screen_shot_2019-11-24_at_10.01.38_am.png" ></td>
-    <td style="padding: 5px;" width="25%" height="25%"><img src="images/slider/screen_shot_2019-09-13_at_9.46.14_pm.png" ></td>
-  </tr>
-</table>
-
+<p align="center"> 
+<img src="images/slider/flyer_v9.jpg" style="width:25%; height:25%; padding: 5px;">
+<img src="images/slider/flyer_v9.jpg" style="width:25%; height:25%; padding: 5px;">
+<img src="images/slider/flyer_v9.jpg" style="width:25%; height:25%; padding: 5px;">
+<img src="images/slider/flyer_v9.jpg" style="width:25%; height:25%; padding: 5px;">
+<p align="center"> 
   </div>
 
 </div>
