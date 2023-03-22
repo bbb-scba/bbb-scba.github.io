@@ -16,7 +16,7 @@ permalink: /
 
   </div>
   
-  <div>
+  <div class="right" style="flex-basis: 80%;">
 
 <p align="center"> 
 <img src="images/slider/flyer_v9.jpg" style="width:20%; height:20%; padding: 5px;">
