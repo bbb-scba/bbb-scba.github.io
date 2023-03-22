@@ -27,10 +27,10 @@ permalink: /
 <img src="images/slider/flyer_v9.jpg" style="width:23%; height:23%; padding: 5px;">
 <img src="images/slider/flyer_v9.jpg" style="width:23%; height:23%; padding: 5px;">
 <img src="images/slider/flyer_v9.jpg" style="width:23%; height:23%; padding: 5px;">
-<img src="images/slider/flyer_v9.jpg" style="width:24.5%; height:24.5%; padding: 1px;">
-<img src="images/slider/flyer_v9.jpg" style="width:24.5%; height:24.5%; padding: 1px;">
-<img src="images/slider/flyer_v9.jpg" style="width:24.5%; height:24.5%; padding: 1px;">
-<img src="images/slider/flyer_v9.jpg" style="width:24.5%; height:24.5%; padding: 1px;">
+<img src="images/slider/flyer_v9.jpg" style="width:24%; height:24%; padding: 1px;">
+<img src="images/slider/flyer_v9.jpg" style="width:24%; height:24%; padding: 1px;">
+<img src="images/slider/flyer_v9.jpg" style="width:24%; height:24%; padding: 1px;">
+<img src="images/slider/flyer_v9.jpg" style="width:24%; height:24%; padding: 1px;">
 </p> 
 
 </div>
