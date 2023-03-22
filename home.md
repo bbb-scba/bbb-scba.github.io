@@ -18,10 +18,10 @@ permalink: /
   
   <div style="flex-basis: 50%; padding: 10px;">
 
-<table width="50%">
+<table>
   <tr>
-    <td style="padding: 5px;"><img src="images/slider/flyer_v9.jpg"></td>
-    <td style="padding: 5px;"><img src="images/slider/screen_shot_2019-07-01_at_7.56.36_pm.png"></td>
+    <td style="padding: 5px;"><img src="images/slider/flyer_v9.jpg" style="width:25%; height:25%"></td>
+    <td style="padding: 5px;"><img src="images/slider/screen_shot_2019-07-01_at_7.56.36_pm.png" style="width:25%; height:25%"></td>
   </tr>
   <tr>
     <td style="padding: 5px;"><img src="images/slider/screen_shot_2019-07-01_at_7.57.12_pm.png"></td>
