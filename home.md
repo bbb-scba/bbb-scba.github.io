@@ -19,10 +19,14 @@ permalink: /
   <div style="flex-basis: 75%; padding: 10px;">
 
 <p align="center"> 
-<img src="images/slider/flyer_v9.jpg" style="width:20%; height:20%; padding: 5%;">
-<img src="images/slider/flyer_v9.jpg" style="width:20%; height:20%; padding: 5%;">
-<img src="images/slider/flyer_v9.jpg" style="width:20%; height:20%; padding: 5%;">
-<img src="images/slider/flyer_v9.jpg" style="width:20%; height:20%; padding: 5%;">
+<img src="images/slider/flyer_v9.jpg" style="width:20%; height:20%; padding: 5px;">
+<img src="images/slider/flyer_v9.jpg" style="width:20%; height:20%; padding: 5px;">
+<img src="images/slider/flyer_v9.jpg" style="width:20%; height:20%; padding: 5px;">
+<img src="images/slider/flyer_v9.jpg" style="width:20%; height:20%; padding: 5px;">
+<img src="images/slider/flyer_v9.jpg" style="width:20%; height:20%; padding: 5px;">
+<img src="images/slider/flyer_v9.jpg" style="width:20%; height:20%; padding: 5px;">
+<img src="images/slider/flyer_v9.jpg" style="width:20%; height:20%; padding: 5px;">
+<img src="images/slider/flyer_v9.jpg" style="width:20%; height:20%; padding: 5px;">
 <img src="images/slider/flyer_v9.jpg" style="width:20%; height:20%; padding: 5px;">
 <img src="images/slider/flyer_v9.jpg" style="width:20%; height:20%; padding: 5px;">
 <img src="images/slider/flyer_v9.jpg" style="width:20%; height:20%; padding: 5px;">
