@@ -19,22 +19,18 @@ permalink: /
   <div class="right" style="flex-basis: 85%;">
 
 <p align="center"> 
-  <tr>
 <img src="images/slider/flyer_v9.jpg" style="width:20%; height:20%; padding: 5px;">
 <img src="images/slider/flyer_v9.jpg" style="width:20%; height:20%; padding: 5px;">
 <img src="images/slider/flyer_v9.jpg" style="width:20%; height:20%; padding: 5px;">
 <img src="images/slider/flyer_v9.jpg" style="width:20%; height:20%; padding: 5px;">
-  </tr>
 <img src="images/slider/flyer_v9.jpg" style="width:20%; height:20%; padding: 5px;">
 <img src="images/slider/flyer_v9.jpg" style="width:20%; height:20%; padding: 5px;">
 <img src="images/slider/flyer_v9.jpg" style="width:20%; height:20%; padding: 5px;">
 <img src="images/slider/flyer_v9.jpg" style="width:20%; height:20%; padding: 5px;">
-  <tr>
 <img src="images/slider/flyer_v9.jpg" style="width:20%; height:20%; padding: 5px;">
 <img src="images/slider/flyer_v9.jpg" style="width:20%; height:20%; padding: 5px;">
 <img src="images/slider/flyer_v9.jpg" style="width:20%; height:20%; padding: 5px;">
 <img src="images/slider/flyer_v9.jpg" style="width:20%; height:20%; padding: 5px;">
-  </tr>
 </p> 
 
 </div>
