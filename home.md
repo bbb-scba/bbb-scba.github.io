@@ -18,7 +18,7 @@ permalink: /
   
   <div style="flex-basis: 50%; padding: 10px;">
 
-<table>
+<table width="50%">
   <tr>
     <td style="padding: 5px;"><img src="images/slider/flyer_v9.jpg"></td>
     <td style="padding: 5px;"><img src="images/slider/screen_shot_2019-07-01_at_7.56.36_pm.png"></td>
